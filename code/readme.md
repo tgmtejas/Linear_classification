@@ -11,3 +11,4 @@
 - `visualizeBoundariesFill.m`: a function to visualize the classification areas in two dimensions
 
 Read the project description on CANVAS for more details on the project.
+
