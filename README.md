@@ -1,1 +1,1 @@
-# Linear_classification using least square analysis and fisher's discriminant + KNN
+Linear classification using least square analysis and fisher's discriminant + KNN
