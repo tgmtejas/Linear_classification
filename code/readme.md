@@ -1,6 +1,8 @@
 
 ### Readme for Project 2
 
+Linear Classification using Least Square Analysis and fisher's discriminant + KNN
+
 # This project contains: 
 - `start.m`: the main function which contains examples of: 
    - how to load the data 
